@@ -156,9 +156,9 @@ Parts of the simulation stack **(Habitat-Sim / Habitat-Lab)** require **Ubuntu/L
 
 ## **Contributors**
 
-> **Aman Chandak** (https://github.com/Aman-Chandak)
+> **Ayushman Mishra** (https://github.com/infinitepriest)
 
-> **Ayushman Mishra** (https://github.com/aymisxx)
+> **Aman Chandak** (https://github.com/Aman-Chandak)
 
 ---
 
@@ -176,6 +176,6 @@ Parts of the simulation stack **(Habitat-Sim / Habitat-Lab)** require **Ubuntu/L
 Project website: https://vlmaps.github.io/
 ```
 
-Reimplementation Repository: https://github.com/aymisxx/vlmaps-reimplementation
+Reimplementation Repository: https://github.com/infinitepriest/vlmaps-reimplementation
 
 ---
